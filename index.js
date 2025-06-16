@@ -1,0 +1,1 @@
+console.log("First line in js written to test git")
